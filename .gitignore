@@ -49,3 +49,9 @@ screenshots/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# NSS training data capture output (large EXR datasets)
+NSS_Dataset/
+
+# Codely CLI local packages
+.codely.packages/
